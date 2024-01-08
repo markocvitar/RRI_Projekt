@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Chest
+  - Item
+  - Projectile
+  - EnemyProjectile
+  - ChestController
+  - ChestSpawnPoints
+  - LegendaryChestSpawnPoints
+  - Portal
+  - Thorns
+  - GameHandler
+  - PlayerSpawnPoint
+  - Boss
+  - Lava
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Ground
+  - Interactable
+  - Projectile
+  - EnemyProjectile
+  - Camera
+  - Boss
+  - Lava
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4226214591
+    locked: 0
+  - name: Background
+    uniqueID: 637866925
+    locked: 0
+  - name: Trees
+    uniqueID: 1074829315
+    locked: 0
+  - name: Chests
+    uniqueID: 1209694481
+    locked: 0
+  - name: Enemies
+    uniqueID: 3390918233
+    locked: 0
+  - name: Objects
+    uniqueID: 299117141
+    locked: 0
+  - name: Ground
+    uniqueID: 197299715
+    locked: 0
+  - name: Items
+    uniqueID: 819477257
+    locked: 0
